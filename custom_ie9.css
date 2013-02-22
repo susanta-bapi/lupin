@@ -1,0 +1,32 @@
+
+
+#slider {
+
+padding-top:0px \0/IE9; /* IE9 and below */
+
+padding-left:0px \0/IE9; /* IE9 and below */
+
+}
+
+
+
+#slider .entry-summary {
+
+margin-top:15px \0/IE9;
+margin-left:5px \0/IE9;
+
+text-align:justify;
+
+
+
+}
+
+#slider .entry-title {
+margin-top:5px \0/IE9;
+margin-left:53px \0/IE9;
+
+}
+
+#slider .entry-container {
+max-width:38% \0/IE9; /* IE8 and below */
+}
