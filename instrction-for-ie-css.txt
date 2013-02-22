@@ -1,0 +1,2 @@
+Include these ie specific css as their path in theme.info.
+No need to add seperate condition in page.tpl.php.
